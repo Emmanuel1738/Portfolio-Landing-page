@@ -17,3 +17,10 @@ main {
     display: block;
     flex: 1 0 auto;
 }
+div {
+    background-color: lightgrey;
+    width: 1100px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
