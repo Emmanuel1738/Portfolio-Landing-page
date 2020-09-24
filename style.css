@@ -24,3 +24,22 @@ div {
     padding: 50px;
     margin: 20px;
   }
+span{
+    color:blue;
+    font-weight:bold;
+    font-size:30px;
+}
+h2{
+    color: fuchsia;
+    text-align-last: center;
+    font-size: 35px;
+}
+h3{
+    color: fuchsia;
+    text-align: center;
+    font-size: 35px;
+}
+.image{
+    width: 100px;
+    height: 35px;
+}
