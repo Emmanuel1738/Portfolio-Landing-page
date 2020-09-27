@@ -11,7 +11,7 @@ This web application was developed by incorporating the use of:
 ## Technical requirements.
 One needs a computer or a phone with stable internet to access.
 ## Contact.
-Facebook @Emmanuel Bett
+Facebook: Emmanuel Bett
 
 Eamil: Emmanuelbett13@gmail.com
 
