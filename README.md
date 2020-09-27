@@ -1,7 +1,7 @@
-# Sex-Education
+# Portfolio.
  By Emamnuel Bett.
  ## Live Link
- https://emmanuel1738.github.io/sex-education/
+ https://emmanuel1738.github.io/Portfolio-Landing-page/
 ## Description
 The site is basically for educational purposes on sex education. The information will be accessed in different categories; based on gender and age. 
 ## Techologies used
