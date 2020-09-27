@@ -1,20 +1,22 @@
 # Portfolio.
  By Emamnuel Bett.
- ## Live Link
+ ## Live Link.
  https://emmanuel1738.github.io/Portfolio-Landing-page/
-## Description
+## Description.
 This is my portfolio, detailed with my background, my experiences and hobbies.
-## Techologies used
+## Techologies used.
 This web application was developed by incorporating the use of:
 - HTML
 - CSS
-## Technical requirements
+## Technical requirements.
 One needs a computer or a phone with stable internet to access.
-## Contact
+## Contact.
 Facebook @Emmanuel Bett
+
 Eamil: Emmanuelbett13@gmail.com
+
 Tel: 0797167215
-## License
+## License.
 The MIT License (MIT)
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
